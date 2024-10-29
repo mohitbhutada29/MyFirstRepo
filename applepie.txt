@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Apple pie
+changes done in main branch
+=======
+chocolate pie on feature branch
+change done on feature branch
+>>>>>>> feature
